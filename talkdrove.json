@@ -8,12 +8,12 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your session ID",
+        "description": "{"noiseKey":{"private":{"type":"Buffer","data":"QHv+4L9OETTxzWyL0FjxYfIRXEKuVIJmG5L9Y5kIZUw="},"public":{"type":"Buffer","data":"d3luJD3v0a/httHqIev+mcdJx6Iz5Bx8oPmIaCn/n18="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"kO0oArVeX10XzfiPZEPxj8p8R6tnp0A0TsT3+tu2CF8="},"public":{"type":"Buffer","data":"NLcxgsTdkJFbnOjYDnfJKHPTz4KGQKl5lEnQypAegX4="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"8EydZM09Um5+6Iwr1oM7bnv74ilVYgQfMGScjc/9HW8="},"public":{"type":"Buffer","data":"XfVi3nWNAYqB+c0KUFK08cHJTJcUlg0v4bIdcAShjmA="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"sHht/Cn+HC7BG166DnoaCz9ylevIskhUdtDEQLx2GXY="},"public":{"type":"Buffer","data":"7Z0BxbGWdzuSFfZzRfJoOoHBdb5sOoI0SPDxuPCvrS8="}},"signature":{"type":"Buffer","data":"jDzJmgd70rJ+u/egFRVxYQ7tmQdK78ywWiwNy1/9IQT3Fgzo+JvnDbZR7JLDOZ57EKGve2zi35v0QD/yDPiIhg=="},"keyId":1},"registrationId":52,"advSecretKey":"Z5ImyvVfnRUHoAD+kYrcsNDUN1jkJNwSZoifXOJSHAI=","processedHistoryMessages":[{"key":{"remoteJid":"94762436484@s.whatsapp.net","fromMe":true,"id":"308575498B8940DF6E13DA6A9AEC8269"},"messageTimestamp":1753077539}],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"deviceId":"6NmFj3hGQdC5c1pAWwyITQ","phoneId":"8ca31371-11b9-4556-8547-853498258593","identityId":{"type":"Buffer","data":"ac18UQJlw/yzEQQOfZZQ4sOq4So="},"registered":true,"backupToken":{"type":"Buffer","data":"/W1PCcDj7YkmEJqDwuBA0oShlX0="},"registration":{},"pairingCode":"CYRILDEV","me":{"id":"94762436484:62@s.whatsapp.net","name":"฿Ⱡ₳₵₭Ｌᴇᴀᴅᴇʀ Ｆx \"ヤ","lid":"104626124779754:62@lid"},"account":{"details":"COb/56cEEJau98MGGAEgACgA","accountSignatureKey":"5ZI6BvVnpct5wrOW5VCWynvgx42PzW6s/jnFsWxlWDE=","accountSignature":"sD6RxX2JxsKOgpz/i0FyaEQnN+fGZDnYt79RBJ46E4UUPgP3ZMsSXWGbPBOERQAlVFWGC//YWc9DOAy56xcTAA==","deviceSignature":"WZ0+7cDEaEQRHGSIZhhch4jpGKe2lSerJCL+M6FDZezaigyZ7tWJd4+Fhr6uSot7byJwbL7hhpMMahPHeeU/hw=="},"signalIdentities":[{"identifier":{"name":"94762436484:62@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BeWSOgb1Z6XLecKzluVQlsp74MeNj81urP45xbFsZVgx"}}],"platform":"smba","routingInfo":{"type":"Buffer","data":"CAIIBQ=="},"lastAccountSyncTimestamp":1753077534,"lastPropHash":"1K4hH4","myAppStateKeyId":"AAAAAK57","preKeys":{"private":{"type":"Buffer","data":"qMZ09MWGXHX/Lr+TicKoUMh2kvHrtJ5rs7Oo88Blr0w="},"public":{"type":"Buffer","data":"2k5iSuHIG9vj6+lNShOAymlALiNd5GQqppZ9i7CTIww="}},"senderKeys":{},"timestamp":"2025-07-21T05:59:00.147Z"}",
         "value": "",
         "required": true
       },
       "OWNER_NUMBER": {
-        "description": "Enter the number that is hosting the bot (e.g., 2349066528353)",
+        "description": "94762436484",
         "value": "2349066528353",
         "required": true
       },
