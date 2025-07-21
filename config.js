@@ -5,8 +5,8 @@ const { color } = require('./lib/myfunc');
 const toBool = (value) => value === "true";
 
 // Owner details
-global.owner = process.env.OWNER_NUMBER;
-global.nomerowner = process.env.OWNER_NUMBERS;
+global.owner = process.env.94762436484;
+global.nomerowner = process.env.94762436484;
 
 // Public mode
 global.public = toBool(process.env.PUBLIC);
